@@ -151,7 +151,6 @@
 
 <div align="center">
 
-<img src="./images/鲨鲨被挂着.jpeg" width="170" alt="鲨鲨被挂着" />
 <img src="./images/挂着的鲨鲨摇晃.gif" width="260" alt="挂着的鲨鲨摇晃" />
 
 <br />
