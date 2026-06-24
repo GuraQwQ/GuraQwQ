@@ -147,16 +147,12 @@
 
 <br />
 
-## 挂鲨公告
-
 <div align="center">
-
 <img src="./images/挂着的鲨鲨摇晃.gif" width="260" alt="挂着的鲨鲨摇晃" />
 
 <br />
 
 被挂起来了，但还在营业。
-
 </div>
 
 <br />
