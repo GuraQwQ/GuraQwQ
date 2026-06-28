@@ -19,10 +19,6 @@
 
 <img src="./images/鲨鲨wink~.gif" width="150" alt="鲨鲨 wink" />
 
-<br />
-
-<strong>我只是抄过来的没想到有这么多东西啊！</strong>
-
 </div>
 
 <br />
